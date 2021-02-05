@@ -8,3 +8,6 @@ Hello, this is my repository where I made a **Typescript boilerplate** configure
 1 - Express.
 2 - Ts-node-dev
 3 - Typescript
+
+
+# leave a star in the clone project and let's go to the codes!
